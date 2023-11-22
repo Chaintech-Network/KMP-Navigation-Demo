@@ -10,9 +10,11 @@ This SampleApp is built with Compose multiplatform based on MVVM architecture, w
 - Network Image Loading
 - Kotlin Serialization
 
-https://github.com/ChainTechNetwork/KMP-Navigation-Demo/assets/143475887/3ab608f7-6a64-4521-8439-bca0e199ce5f
 
-**Open-source libraries**
+https://github.com/ChainTechNetwork/KMP-Navigation-Demo/assets/143475887/9d3fd618-b162-492d-90ce-6bcc9c708c31
+
+
+**Open-source libraries Used in this Demo**
 
 - [Kotlin](https://kotlinlang.org/) based, [Coroutines](https://github.com/Kotlin/kotlinx.coroutines) + [Flow](https://kotlin.github.io/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/) for asynchronous.
 - [Kotlin Serialization](https://github.com/Kotlin/kotlinx.serialization): Kotlin multiplatform / multi-format serialization.

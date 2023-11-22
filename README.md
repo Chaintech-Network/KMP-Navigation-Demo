@@ -1,12 +1,16 @@
-# KMP-Navigation-Demo
+# KMP(Kotlin Multi Platfrom) Demo
 
-This is a sample app built using Compose Multiplatform UI that works on Android, iOS platforms.
-
+This SampleApp is built with Compose multiplatform based on MVVM architecture, which covers
+-> Coroutines
+-> Navigation 
+-> Flow
+-> Material3 
+-> Koin
+-> Api Calling
+-> Network Image Loading
+-> Kotlin Serialization
 
 https://github.com/ChainTechNetwork/KMP-Navigation-Demo/assets/143475887/3ab608f7-6a64-4521-8439-bca0e199ce5f
-
-
-SampleApp is built with Compose multiplatform, Coroutines, Voyager, Flow, Material3, Koin, Ktor, Image Loader and Kotlin Serialization based on MVVM architecture.
 
 **Open-source libraries**
 

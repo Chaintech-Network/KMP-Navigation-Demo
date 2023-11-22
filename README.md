@@ -129,4 +129,4 @@ Add font in commonMain -\> resources (if not create)-\> add images
 
 [Example](https://github.com/ChainTechNetwork/KMP-Navigation-Demo/blob/main/shared/src/commonMain/kotlin/com/example/demotest/ui/screen/Detail.kt)
 
-**[Follow us on linked for such usefull materials](https://www.linkedin.com/showcase/mobile-innovation-network/?viewAsMember=true)**
+**[Follow us on Linkedin for more such useful content](https://www.linkedin.com/showcase/mobile-innovation-network/?viewAsMember=true)**
